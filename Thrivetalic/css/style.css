@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: Larsseit, sans-serif;
+}
+
+.container {
+  padding-bottom: 10%;
+  background: #62d0df;
+  background-image: url(/images/image1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  border-bottom: 3px solid white;
+}
+
+.container__content {
+  color: #ffffff;
+  display: inline-block;
+  margin-left: 10%;
+  margin-right: 47%;
+}
+
+.title {
+  font-size: 36px;
+  line-height: 27.42px;
+  margin-top: 151px;
+  margin-bottom: 75px;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 29.3px;
+}
+
+strong {
+  font-size: 24px;
+  line-height: 35.15px;
+}
